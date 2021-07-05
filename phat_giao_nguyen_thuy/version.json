@@ -1,1 +1,4 @@
-version.json
+{
+    "current": "1.6", 
+    "force": 1
+  }
